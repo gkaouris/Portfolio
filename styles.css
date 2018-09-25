@@ -1,0 +1,158 @@
+body{
+  background-color: #24ccbb;
+  font-family: 'Raleway', sans-serif;
+
+
+}
+
+.btn-circle {
+  width: 30px;
+  color:white;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+  border: 1px solid;
+  margin-top: 4px;
+}
+
+.container{
+  margin-top: 60px;
+  color: white;
+}
+
+.image{
+  height: 130px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.navbar ul{
+  list-style-type: none;
+  margin-top: 6px;
+}
+
+.navbar li{
+  padding-right: 20px;
+  font-family: 'Titillium Web', sans-serif;
+
+}
+
+a{
+  color: white;
+  margin-top: 10px;
+  padding: 0 2px;
+  font-size: 20px;
+}
+
+a:hover{
+  color: black;
+}
+
+.container a:hover{
+  color: black;
+}
+
+a .image:hover{
+  cursor: default;
+}
+
+.navbar{
+  background-color:#24ccbb;
+  border-radius:10px;
+  margin: 30px 10px 0 10px;
+}
+
+.i-am-centered {
+  margin: auto;
+
+}
+
+.container2{
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 100px;
+  overflow:none;
+}
+
+.about{
+  color: white;
+  font-weight: bold;
+  overflow:none;
+}
+
+.container3{
+  padding-top: 0px;
+}
+
+.project{
+  height: 150px;
+  width: 270px;
+  border:2px solid;
+  border-radius: 15px;
+}
+
+.container3 li{
+  padding:60px;
+}
+
+.container2 p{
+  font-size: 25px;
+}
+
+.myskills{
+  padding-top:20px;
+  color: white;
+}
+
+#html{
+  color: #d8760d;
+}
+
+#css{
+  color: #3573d6
+}
+
+#javascript{
+  color: #f4e842
+}
+
+.icons{
+  padding-top: 20px;
+}
+
+.icons li{
+  padding:20px;
+}
+
+.container4{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.name{
+  font-size:55px;
+}
+
+.phone, .email{
+  color: white;
+}
+
+.banner{
+  font-size: 35px;
+}
+
+.html, .css, .java{
+  font-family: 'Raleway', sans-serif;
+}
+
+.email{
+  font-size: 20px;
+}
+
+.container5{
+  background-color: white;
+  border-radius: 10px;
+}
